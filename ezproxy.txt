@@ -1,0 +1,5 @@
+Ez-Proxy Link Plugin for Library
+
+Goal: Within link button on moodle, add check box, and if checked, change the link to an ezproxy link
+Backup plan: Make a second button that does this
+
